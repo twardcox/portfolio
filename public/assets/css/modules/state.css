@@ -1,0 +1,4 @@
+/* There is plenty of similarity between a sub-module style and a state style. They both modify the existing look of an element. However, they differ in two key ways:
+
+State styles can apply to layout and/or module styles; and
+State styles indicate a JavaScript dependency. */
